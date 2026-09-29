@@ -27,7 +27,7 @@ Para qualquer um que for testar o código todo, recomenda-se a compilação util
 
 ```bash
 # Compilando o arquivo
-gcc main.c -o biblioteca
+gcc main.c funcoes.c -o biblioteca
 
 # Executando o sistema
 ./biblioteca
